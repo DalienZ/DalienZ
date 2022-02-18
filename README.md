@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DalienZ
-- 👀 I’m interested in front end design
-- 🌱 I’m currently learning HTML + CSS
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
